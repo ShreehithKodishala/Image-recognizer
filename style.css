@@ -1,0 +1,25 @@
+body{
+
+    background: lightgreen;
+    
+}
+
+.name_of_the_objects {
+
+    color: lightcyan;
+    font-size: 17px;
+}
+
+#camera {
+
+    height: 400px;
+    width:400px;
+
+}
+
+#result {
+
+    height:350px;
+    width:350px;
+
+}
